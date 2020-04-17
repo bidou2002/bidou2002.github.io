@@ -1,3 +1,13 @@
+# Salut les gaziers !
+
+On commence classique avec un poil de texte.
+
+Et du R
+```r
+plot(1:100)
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bidou2002/bidou2002.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
